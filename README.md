@@ -1,1 +1,1 @@
-https://github.com/12mitoit-cloud/ono-tebe-nado-ad
+https://github.com/ZomboYra/posmotri-v-okno-ad
