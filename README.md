@@ -1,1 +1,1 @@
-https://github.com/ZomboYra/posmotri-v-okno-ad
+https://github.com/12mitoit-cloud/posmotri-v-okno-ad
